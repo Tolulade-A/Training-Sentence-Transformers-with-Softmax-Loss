@@ -1,2 +1,2 @@
 # Training-Sentence-Transformers-with-Softmax-Loss
-An illustrative notebook on Sentence Transformers training
+An illustrative NLP notebook on Sentence Transformers training
